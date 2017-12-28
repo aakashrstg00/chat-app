@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat application built with node.js and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aakashrstg00/chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "talk",
+    "socket",
+    "real",
+    "time"
+  ],
+  "author": "Aakash Rastogi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aakashrstg00/chat-app/issues"
+  },
+  "homepage": "https://github.com/aakashrstg00/chat-app#readme"
+}
